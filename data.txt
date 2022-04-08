@@ -13,4 +13,5 @@
 "53B46A030D2A~AFCT==":"Maruf Hassan|22 April 2022",
 "CB3D15F6A622~AFCT==":"MICRON|31 February",
 "A7818090A724~AFCT==":"J009 Exchange|15 April 2022",
-"4F2DE7AD02F4~AFCT==":"Nehal|Beta Tester"}
+"4F2DE7AD02F4~AFCT==":"Nehal|Beta Tester",
+"478FDC18136D~AFCT==":"Hadi|Beta Tester"}
