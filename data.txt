@@ -12,4 +12,5 @@
 "A1A259CF17FD~AFCT==":"Istiak Rishat|15 April 2022",
 "53B46A030D2A~AFCT==":"Maruf Hassan|22 April 2022",
 "CB3D15F6A622~AFCT==":"MICRON|31 February",
-"A7818090A724~AFCT==":"J009 Exchange|15 April 2022"}
+"A7818090A724~AFCT==":"J009 Exchange|15 April 2022",
+"4F2DE7AD02F4~AFCT==":"Nehal|Beta Tester"}
