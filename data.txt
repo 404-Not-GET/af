@@ -2,10 +2,8 @@
 "F52BD86653DD~AFCT==":"Habib|3 May 2022",
 "CF92A4CF6690~AFCT==":"MUSSAFA|18 April 2022",
 "5168CA07B65A~AFCT==":"Silhad Mahfuz|Premium",
-"89CBEF497B78~AFCT==":"Mainul|14 April 2022",
 "C1590A281B55~AFCT==":"Jawad Ali|Test",
 "ADF99AFC84A7~AFCT==":"Musaddek Ahmed|6 May 2022",
-"DD6D1C0D6ADD~AFCT==":"Mamun|14 April 2022",
 "A1A259CF17FD~AFCT==":"Istiak Rishat|15 April 2022",
 "53B46A030D2A~AFCT==":"Maruf Hassan|22 April 2022",
 "CB3D15F6A622~AFCT==":"MICRON|31 February",
@@ -22,5 +20,4 @@
 "4BA32952B512~AFCT==":"Mr Tom|27 April 2022",
 "534D6EC1B83C~AFCT==":"MD Kiron|20 April 2022",
 "F335109F8F50~AFCT==":"MD Sakib|Lifetime",
-"0B1C09727D96~AFCT==":"MD Sakib|Lifetime",
-"C343F954ACCC~AFCT==":"MD Naime|Test"}
+"0B1C09727D96~AFCT==":"MD Sakib|Lifetime"}
