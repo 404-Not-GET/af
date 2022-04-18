@@ -23,4 +23,5 @@
 "0B1C09727D96~AFCT==":"MD Sakib|Lifetime",
 "557C4A40D23D~AFCT==":"Baizid|19 April 2022",
 "3F66AB56F49D~AFCT==":"Basit Khan|Unlimited",
-"5331742D096B~AFCT==":"Rafin|2 May 2022"}
+"5331742D096B~AFCT==":"Rafin|2 May 2022",
+"9530AC573FB2~AFCT==":"Ashik Adnaan|18 May 2022"}
