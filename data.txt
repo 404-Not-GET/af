@@ -22,4 +22,5 @@
 "A72BEBAFZHGZZGH~AFCT==":"Jamai|5 May 2022",
 "810F355FZHKOOKH~AFCT==":"Jisan|30 April 2022",
 "00E36D6FZLOOOOL~AFCT==":"Kaushalya  Mayura|15 May 2022",
-"1926C51FZLMKKML~AFCT==":"Anas Yousaf|Beta Tester"}
+"1926C51FZLMKKML~AFCT==":"Anas Yousaf|Beta Tester",
+"ED94CA6FZKWZZWK~AFCT==":"Nil|7 May 2022"}
