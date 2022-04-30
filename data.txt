@@ -21,4 +21,5 @@
 "F867524FZLWKKWL~AFCT==":"Baizid|2 May 2022",
 "A72BEBAFZHGZZGH~AFCT==":"Jamai|5 May 2022",
 "810F355FZHKOOKH~AFCT==":"Jisan|30 April 2022",
-"00E36D6FZLOOOOL~AFCT==":"Kaushalya  Mayura|15 May 2022"}
+"00E36D6FZLOOOOL~AFCT==":"Kaushalya  Mayura|15 May 2022",
+"1926C51FZLMKKML~AFCT==":"Anas Yousaf|Beta Tester"}
