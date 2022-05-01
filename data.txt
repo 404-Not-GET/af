@@ -13,7 +13,6 @@
 "3F66AB56F49D~AFCT==":"Basit Khan|Unlimited",
 "5331742D096B~AFCT==":"Rafin|2 May 2022",
 "D7DB86CFZHGHHGH~AFCT==":"Ashik Adnaan|18 May 2022",
-"B95ADFB6AAE9~AFCT==":"Kamrul Hasan Samol|30 April 2022",
 "CF92A4CF6690~AFCT==":"Musaraf|5 May 2022",
 "D3B602DFZLFLLFL~AFCT==":"Nayem Hasan|24 May 2022",
 "3D3AD6AFZLZMMZL~AFCT==":"Nayen Zia|5 May 2022",
