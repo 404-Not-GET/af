@@ -23,7 +23,7 @@
 "00E36D6FZLOOOOL~AFCT==":"Kaushalya  Mayura|15 May 2022",
 "1926C51FZLMKKML~AFCT==":"Anas Yousaf|Beta Tester",
 "ED94CA6FZKWZZWK~AFCT==":"Nil|7 May 2022",
-"C45C433FZLZTTZL~AFCT==":"Shayan|7 May 2022",
+"4C4F011FZLOOOOL~AFCT==":"Shayan|7 May 2022",
 "CDA95D6FZLGTTGL~AFCT==":"Itz Rajput|7 May 2022",
 "E64FB2FFZLGKKGL~AFCT==":"Sugam Shahi|12 June 2022",
 "E64E4EDFZLOMMOL~AFCT==":"Mantal Mahi|Unlimited",
